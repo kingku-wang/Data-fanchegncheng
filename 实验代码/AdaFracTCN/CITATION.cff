@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying AdaFracTCN manuscript."
+title: "AdaFracTCN: Adaptive Fractional-Order Temporal Convolutional Network with Learnable Memory for Multi-Horizon Volatility Forecasting"
+type: software
+authors:
+  - family-names: Fang
+    given-names: Chengcheng
+    affiliation: Huzhou Normal University
+version: 0.1.0
+date-released: 2026-09-20
+license: MIT
+abstract: >-
+  Research code and reproducibility materials for AdaFracTCN, an adaptive
+  fractional-order temporal convolutional model for multi-horizon volatility
+  forecasting.
+keywords:
+  - fractional-order calculus
+  - temporal convolutional network
+  - volatility forecasting
+  - long memory
+  - financial time series

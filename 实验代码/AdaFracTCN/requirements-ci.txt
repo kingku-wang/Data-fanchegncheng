@@ -1,0 +1,7 @@
+# Lightweight dependencies for smoke CI. Torch is installed separately from the CPU wheel index.
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+matplotlib>=3.7,<4.0
+statsmodels>=0.14,<1.0
+requests>=2.31,<3.0

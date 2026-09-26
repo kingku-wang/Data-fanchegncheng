@@ -1,0 +1,9 @@
+variant,mean_delta,ci_low,ci_high,p,n,hac_lag
+TCN-RFmatched,0.001,-0.0008,0.0028,0.264,995,9
+PowerLaw,0.0021,0.0003,0.0039,0.021,995,9
+FracTCN-fixed,0.0033,0.0015,0.0051,0.001,995,9
+FracTCN-learnable,0.0042,0.0024,0.0061,0.0003,995,9
+FracTCN-dual,0.004,0.0021,0.0059,0.0005,995,9
+FracTCN-dual-fixed,0.005,0.0031,0.0069,7e-05,995,9
+FracTCN-dual-indep,0.0066,0.0045,0.0087,1e-05,995,9
+AdaFracTCN,0.0083,0.002,0.0146,0.01,995,9

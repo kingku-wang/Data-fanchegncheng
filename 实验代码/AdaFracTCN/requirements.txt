@@ -1,0 +1,12 @@
+# Recommended Python: 3.11
+# Full experiment dependencies
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+torch>=2.0,<3.0
+matplotlib>=3.7,<4.0
+statsmodels>=0.14,<1.0
+arch>=6.0,<9.0
+pmdarima>=2.0,<3.0
+yfinance>=0.2.40,<1.0
+requests>=2.31,<3.0
